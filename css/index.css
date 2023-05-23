@@ -2,7 +2,7 @@
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: yellowgreen;
+    background-color: lightblue;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 
 ol > li {
     list-style: none;
-    background-color: lightpink;
+    background-color: wheat;
     text-align: center;
     font: bold 40px "Fira Sans", serif;
     width: 200px;
