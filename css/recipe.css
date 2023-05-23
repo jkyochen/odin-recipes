@@ -1,0 +1,23 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+
+img {
+    width: 400px;
+    float: left;
+}
+
+div {
+    width: 600px;
+    margin-left: 460px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+}
